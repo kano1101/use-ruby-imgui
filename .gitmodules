@@ -1,0 +1,3 @@
+[submodule "ruby-imgui"]
+	path = ruby-imgui
+	url = git@github.com:kano1101/ruby-imgui.git
